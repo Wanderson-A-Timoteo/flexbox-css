@@ -1,0 +1,31 @@
+/*  Sem FleBox*/
+.flexbox {
+  width: 200px;
+  height: 200px;
+  background-color: #FF0000;
+  margin: 10px;
+}
+
+.semflex {
+  background-color: #DDDDDD;
+}
+.semflex div {
+  background-color: #FF0000;
+  margin: 10px;
+  padding: 10px;
+  font-size: 18px;
+} 
+  
+/*  Com FleBox*/
+  .container {
+    display: flex;
+    background-color: #DDDDDD;
+  }
+  .container div {
+    background-color: #FF0000;
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+  }
+
+  
